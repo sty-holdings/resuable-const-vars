@@ -1,4 +1,4 @@
-// Package constants
+// Package reusable_const_vars
 /*
 General description of the purpose of the go file.
 
@@ -29,32 +29,19 @@ COPYRIGHT:
 	limitations under the License.
 
 */
-package constants
+package reusable_const_vars
 
 //goland:noinspection ALL
 const (
-	COMMA            = ","
-	PERIOD           = "."
-	EXCLAMATION      = "!"
-	AT_SIGN          = "@"
-	HASH_TAG         = "#"
-	POUND_SIGN       = "#"
-	PERCENT_SIGN     = "%"
-	CARAT            = "^"
-	AMPERSAND        = "&"
-	STAR             = "*"
-	PARENTHESE_LEFT  = "("
-	PARENTHESE_RIGHT = ")"
-	COLON            = ":"
-	SEMI_COLON       = ";"
-	ELLIPSIS         = "..."
-	QUESTION_MARK    = "?"
-	DASH             = "-"
-	HYPHEN           = "-"
-	BRACKET_LEFT     = "["
-	BRACKET_RIGHT    = "]"
-	BRACE_LEFT       = "{"
-	BRACE_RIGHT      = "}"
-	QUOTATION_MARKS  = "\""
-	APOSTROPHE       = "'"
+	CERT_ED25519         = "ED25519"
+	CERT_RSA             = "RSA"
+	CERT_RS265           = "RS256"
+	CERT_ECDSACURVE      = "ECDSACURVE"
+	CERT_ECDSACURVE_P224 = "P224"
+	CERT_ECDSACURVE_P256 = "P256"
+	CERT_ECDSACURVE_P384 = "P384"
+	CERT_ECDSACURVE_P521 = "P521"
+	CERT_PRIVATE_KEY     = "RSA PRIVATE KEY"
+	CERT_PUBLIC_KEY      = "PUBLIC KEY"
+	CERTIFICATE          = "CERTIFICATE"
 )

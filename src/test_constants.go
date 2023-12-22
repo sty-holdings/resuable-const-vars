@@ -1,9 +1,14 @@
-// Package shared
+// Package reusable_const_vars
 /*
-NOTES:
-    {Enter any additional notes that you believe will help the next developer.}
+This file contains USA states and postal codes
 
-COPYRIGHT:
+RESTRICTIONS:
+	- Do not edit this comment section.
+
+NOTES:
+    To improve code readability, the constant names do not follow camelCase.
+
+COPYRIGHT and WARRANTY:
 	Copyright 2022
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -16,8 +21,9 @@ COPYRIGHT:
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
+
 */
-package constants
+package reusable_const_vars
 
 //goland:noinspection ALL
 const (

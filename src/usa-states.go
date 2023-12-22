@@ -1,20 +1,15 @@
-// Package constants
+// Package reusable_const_vars
 /*
-General description of the purpose of the go file.
+This file contains USA states and postal codes
 
 RESTRICTIONS:
-    AWS functions:
-    * Program must have access to a .aws/credentials file in the default location.
-    * This will only access system parameters that start with '/sote' (ROOTPATH).
-    * {Enter other restrictions here for AWS
-
-    {Other catagories of restrictions}
-    * {List of restrictions for the catagory
+	- Do not edit this comment section.
 
 NOTES:
-    {Enter any additional notes that you believe will help the next developer.}
+    To improve code readability, the constant names do not follow camelCase.
+	//goland:noinspection ALL
 
-COPYRIGHT:
+COPYRIGHT and WARRANTY:
 	Copyright 2022
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -29,11 +24,10 @@ COPYRIGHT:
 	limitations under the License.
 
 */
-package constants
+package reusable_const_vars
 
 //goland:noinspection ALL
 const (
-	// USA State Codes
 	USA_AL          = "AL"
 	USA_AK          = "AK"
 	USA_AZ          = "AZ"
@@ -85,22 +79,57 @@ const (
 	USA_WI          = "WI"
 	USA_WY          = "WY"
 	ALL_USA__STATES = "AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY"
-
-	// 	Canadian Providence
-	AB                   = "AB" // Alberta
-	BC                   = "BC" // British Columbia
-	MB                   = "MB" // Manitoba
-	NB                   = "NB" // New Brunswick
-	NL                   = "NL" // Newfoundland and Labrador
-	NT                   = "NT" // Northwest Territories
-	NS                   = "NS" // Nova Scotia
-	NU                   = "NU" // Nunavut
-	ON                   = "ON" // Ontario
-	PE                   = "PE" // Prince Edward Island
-	QC                   = "QC" // Quebec
-	SK                   = "SK" // Saskatchewan
-	YT                   = "YT" // Yukon
-	ALL_PROVIDENCE_CODES = "AB BC MB NB NL NT NS NU ON PE QC SK YT"
-	ALL_PROVIDENCE_NAMES = "Alberta British Columbia Manitoba New Brunswick Newfoundland and Labrador Northwest Territories Nova Scotia Nunavut Ontario Prince Edward Island Quebec Saskatchewan Yukon"
 )
 
+var unitedStateInfo = map[string]string{
+	"AL": "Alabama",
+	"AK": "Alaska",
+	"AZ": "Arizona",
+	"AR": "Arkansas",
+	"CA": "California",
+	"CO": "Colorado",
+	"CT": "Connecticut",
+	"DE": "Delaware",
+	"FL": "Florida",
+	"GA": "Georgia",
+	"HI": "Hawaii",
+	"ID": "Idaho",
+	"IL": "Illinois",
+	"IN": "Indiana",
+	"IA": "Iowa",
+	"KS": "Kansas",
+	"KY": "Kentucky",
+	"LA": "Louisiana",
+	"ME": "Maine",
+	"MD": "Maryland",
+	"MA": "Massachusetts",
+	"MI": "Michigan",
+	"MN": "Minnesota",
+	"MS": "Mississippi",
+	"MO": "Missouri",
+	"MT": "Montana",
+	"NE": "Nebraska",
+	"NV": "Nevada",
+	"NH": "New Hampshire",
+	"NJ": "New Jersey",
+	"NM": "New Mexico",
+	"NY": "New York",
+	"NC": "North Carolina",
+	"ND": "North Dakota",
+	"OH": "Ohio",
+	"OK": "Oklahoma",
+	"OR": "Oregon",
+	"PA": "Pennsylvania",
+	"RI": "Rhode Island",
+	"SC": "South Carolina",
+	"SD": "South Dakota",
+	"TN": "Tennessee",
+	"TX": "Texas",
+	"UT": "Utah",
+	"VT": "Vermont",
+	"VA": "Virginia",
+	"WA": "Washington",
+	"WV": "West Virginia",
+	"WI": "Wisconsin",
+	"WY": "Wyoming",
+}

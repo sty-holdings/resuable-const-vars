@@ -1,4 +1,4 @@
-// Package constants
+// Package reusable_const_vars
 /*
 This file contains country names and codes
 
@@ -23,7 +23,7 @@ COPYRIGHT and WARRANTY:
 	limitations under the License.
 
 */
-package constants
+package reusable_const_vars
 
 //goland:noinspection ALL
 const (
@@ -537,14 +537,14 @@ var iso3166 = map[string]iso3166Entry{
 	"ZWE": {"Zimbabwe", "ZW", "ZWE", 716},
 }
 
-func GetISO3166Alpha2UsingAlpha3(alpha3 string) string {
+func GetAlpha2UsingAlpha3(alpha3 string) string {
 	return iso3166[alpha3].alpha2
 }
 
-func GetISO3166NumericUsingAlpha3(alpha3 string) uint64 {
+func GetNumericUsingAlpha3(alpha3 string) uint64 {
 	return iso3166[alpha3].numeric
 }
 
-func GetISO3166EnglishNameUsingAlpha3(alpha3 string) string {
+func GetEnglishNameUsingAlpha3(alpha3 string) string {
 	return iso3166[alpha3].englishName
 }
