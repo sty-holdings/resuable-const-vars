@@ -4,7 +4,7 @@
 
 This is meant to be where everyone can share Constants and Variables, primarily static values. Also, there can be helper functions with the constants and variables.
 
-If you don't like the coding style used for the file, there is no such thing as the right way to code. I would say that you should be flexible.
+If you don't like the coding style used for the file, there is no such thing as the right way to code. You should be flexible.
 
 Areas Touched On:
 - Canadian Provinces
@@ -18,4 +18,6 @@ Areas Touched On:
 - Time Codes and Timezones
 - USA States
 
-Additions are welcome for all programming languages. Also, if you want to add something and don't have the time. Open an issue, and I will see if I can get to it. No promises.
+Additions are welcome for all programming languages. Also, if you want to add something and don't have the time to do it yourself, open an issue, and I will see if I can get to it. No promises.
+
+For non-go-based code, please add the language to the directory name. Something like this: java-src. I'm open to other ways; let me know your thoughts.
