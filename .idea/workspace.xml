@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c061485-7f10-4c79-9f75-1aa675a312eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/canada-provinces.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certificates-crypto.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/field-names.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postgresql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statuses.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time-codes.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countries.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/countries.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/country-maps.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/punctaution-contants.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/punctaution-contants.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_constants.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/usa-states.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/usa-states.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colors.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/colors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time-codes.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/time-codes.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

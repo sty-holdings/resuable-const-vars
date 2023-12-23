@@ -7,7 +7,7 @@ RESTRICTIONS:
 
 NOTES:
     To improve code readability, the constant names do not follow camelCase.
-	//goland:noinspection ALL
+	Do not remove IDE inspection directives
 
 COPYRIGHT and WARRANTY:
 	Copyright 2022

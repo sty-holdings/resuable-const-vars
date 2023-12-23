@@ -1,20 +1,15 @@
 // Package reusable_const_vars
 /*
-General description of the purpose of the go file.
+This file contains USA states and postal codes
 
 RESTRICTIONS:
-    AWS functions:
-    * Program must have access to a .aws/credentials file in the default location.
-    * This will only access system parameters that start with '/sote' (ROOTPATH).
-    * {Enter other restrictions here for AWS
-
-    {Other catagories of restrictions}
-    * {List of restrictions for the catagory
+	- Do not edit this comment section.
 
 NOTES:
-    {Enter any additional notes that you believe will help the next developer.}
+    To improve code readability, the constant names do not follow camelCase.
+	Do not remove IDE inspection directives
 
-COPYRIGHT:
+COPYRIGHT and WARRANTY:
 	Copyright 2022
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
