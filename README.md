@@ -1,6 +1,6 @@
 # Reusable Constants and Variables
 
-## Here is a link to the article about why this exists: ?????????????
+## Here is a link to the article about why this exists: [The overlooked area of coding](https://medium.com/@scott28479/the-overlooked-area-of-coding-b2c25579ca0f)
 
 This is meant to be where everyone can share Constants and Variables, primarily static values. Also, there can be helper functions with the constants and variables.
 
