@@ -46,7 +46,6 @@ const (
 	// Operators
 	OPER_DOUBE_EQUAL_SIGN = "=="
 	OPER_EQUAL_SIGN       = "="
-	OPER_EMPTY            = ""
 	// Text Strings
 	TXT_IS_EMPTY         = "is empty"
 	TXT_IS_MISSING       = "is missing"
@@ -82,4 +81,6 @@ const (
 	NATS_NON_TLS_CONNECTION = "NON-TLS"
 	NATS_TLS_CONNECTION     = "TLS "
 	VALID                   = "VALID"
+	// Values
+	VAL_EMPTY = ""
 )
