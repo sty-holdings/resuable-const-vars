@@ -83,4 +83,5 @@ const (
 	VALID                   = "VALID"
 	// Values
 	VAL_EMPTY = ""
+	VAL_ZERO  = 0
 )
