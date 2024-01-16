@@ -57,6 +57,7 @@ const (
 	TXT_INTO             = "into"
 	TXT_LINE_SEPARATOR   = "----------------"
 	TXT_MESSAGE          = "message"
+	TXT_MISSING          = "MISSING"
 	TXT_MISSING_KEY      = "missing key"
 	TXT_MISSING_VALUE    = "missing value"
 	TXT_NA               = "N.A."
