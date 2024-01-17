@@ -32,9 +32,6 @@ const (
 	MODE_OUTPUT_DISPLAY = "display"
 	MODE_OUTPUT_LOG     = "log"
 	MODE_RELEASE        = "release"
-	// debug
-	DEBUG_MESSAGE = "DEBUG_MESSAGE:"
-	DEBUG_MODE    = "DEBUG"
 	// Fully qualified filenames
 	FQN_CERTIFICATE          = "CertificateFQN"
 	FQN_FIREBASE_CREDENTIALS = "FirebaseCredentialsFQN"
@@ -48,6 +45,7 @@ const (
 	OPER_EQUAL_SIGN       = "="
 	// Text Strings
 	TXT_BYPASS           = "bypass"
+	TXT_DEBUG_MESSAGE    = "DEBUG_MESSAGE:"
 	TXT_IS_EMPTY         = "is empty"
 	TXT_IS_MISSING       = "is missing"
 	TXT_IS_OK            = "is ok"
