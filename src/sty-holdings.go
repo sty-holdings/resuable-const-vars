@@ -46,6 +46,7 @@ const (
 	// Text Strings
 	TXT_BYPASS           = "bypass"
 	TXT_DEBUG_MESSAGE    = "DEBUG_MESSAGE:"
+	TXT_FILENAME         = "FILENAME:"
 	TXT_IS_EMPTY         = "is empty"
 	TXT_IS_MISSING       = "is missing"
 	TXT_IS_OK            = "is ok"
