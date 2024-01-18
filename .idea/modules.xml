@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/resuable_const_vars.iml" filepath="$PROJECT_DIR$/.idea/resuable_const_vars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/resuable-const-vars.iml" filepath="$PROJECT_DIR$/.idea/resuable-const-vars.iml" />
     </modules>
   </component>
 </project>
