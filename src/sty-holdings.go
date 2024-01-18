@@ -78,9 +78,12 @@ const (
 	TXT_SERVER_VERSION        = "SERVER VERSION:"
 	TXT_TRUE                  = "true"
 	// Software
-	LOCAL_HOST      = "localhost"
-	PID_FILENAME    = "/server.pid"
-	DEFAULT_VERSION = "9999.9999.9999"
+	LOCAL_HOST              = "localhost"
+	PID_FILENAME            = "/server.pid"
+	DEFAULT_VERSION         = "9999.9999.9999"
+	ENVIRONMENT_LOCAL       = "local"
+	ENVIRONMENT_DEVELOPMENT = "development"
+	ENVIRONMENT_PRODUCTION  = "production"
 	// Testing
 	TEST_POSITVE_SUCCESS  = "Positive Case: Successful: "
 	TEST_NEGATIVE_SUCCESS = "Negative Case: Successful: "
