@@ -60,6 +60,7 @@ const (
 	FN_DURATION                           = "Duration"
 	FN_EMAIL                              = "email"
 	FN_EMAIL_VERIFIED                     = "email_verified"
+	FN_ENVIRONMENT                        = "environment"
 	FN_EXPIRY_TIMESTAMP                   = "expiry_timestamp"
 	FN_FAMILY_NAME                        = "family_name"
 	FN_FILENAME                           = "filename"

@@ -61,6 +61,7 @@ const (
 	TXT_IS_UNREADABLE            = "is unreadable"
 	TXT_EMAIL                    = "EMAIL"
 	TXT_EMPTY                    = "empty"
+	TXT_EVIRONMENT               = "ENVIRONMENT: "
 	TXT_FALSE                    = "false"
 	TXT_GOOD                     = "good"
 	TXT_GOT_WRONG_BOOLEAN        = "Got wrong boolean value."
@@ -79,8 +80,8 @@ const (
 	TXT_PROTECTED                = "PROTECTED"
 	TXT_OUTOF                    = "out of"
 	TXT_PHONE                    = "phone"
-	TXT_SERVER_NAME              = "SERVER_NAME:"
-	TXT_SERVER_VERSION           = "SERVER VERSION:"
+	TXT_SERVER_NAME              = "SERVER_NAME: "
+	TXT_SERVER_VERSION           = "SERVER VERSION: "
 	TXT_TRUE                     = "true"
 	// Software
 	LOCAL_HOST              = "localhost"
