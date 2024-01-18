@@ -60,6 +60,7 @@ const (
 	TXT_INTO             = "into"
 	TXT_INVALID          = "INVALID"
 	TXT_LINE_SEPARATOR   = "----------------"
+	TXT_DIRECTORY_EMPTY  = "Directory parameter is empty"
 	TXT_MESSAGE          = "message"
 	TXT_MISSING          = "MISSING"
 	TXT_MISSING_KEY      = "missing key"
