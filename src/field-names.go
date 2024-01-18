@@ -87,6 +87,7 @@ const (
 	FN_LOCKUP_START_DATE                  = "lockups_start_date"
 	FN_LOG_DIRECTORY                      = "log_directory"
 	FN_MAX_ALLOCATION                     = "max_allocation"
+	FN_MAX_THREADS                        = "max_threads"
 	FN_MIN_ALLOCATION                     = "min_allocation"
 	FN_NAVIGATION                         = "navigation"
 	FN_NICKNAME                           = "nickname"
