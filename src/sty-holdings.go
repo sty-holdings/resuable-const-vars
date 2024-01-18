@@ -78,8 +78,8 @@ const (
 	LOCAL_HOST   = "localhost"
 	PID_FILENAME = "/server.pid"
 	// Testing
-	TEST_POSITVE_SUCCESS  = "Positive Case: Successful"
-	TEST_NEGATIVE_SUCCESS = "Negative Case: Successful"
+	TEST_POSITVE_SUCCESS  = "Positive Case: Successful: "
+	TEST_NEGATIVE_SUCCESS = "Negative Case: Successful: "
 	// Unassigned
 	ATTEMPT_LIMIT_EXCEEDED  = "Attempt limit exceeded"
 	AUTHENTICATOR_SERVICE   = "AuthenticatorService"
