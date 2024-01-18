@@ -62,6 +62,7 @@ const (
 	FN_EMAIL_VERIFIED                     = "email_verified"
 	FN_EXPIRY_TIMESTAMP                   = "expiry_timestamp"
 	FN_FAMILY_NAME                        = "family_name"
+	FN_FILENAME                           = "filename"
 	FN_FIRST_NAME                         = "first_name"
 	FN_FEDERAL_TAX_ID                     = "federal_tax_id"
 	FN_FEDERAL_TAX_ID_IS_SET              = "federal_tax_id_is_set"
