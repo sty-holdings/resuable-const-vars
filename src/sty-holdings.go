@@ -63,6 +63,7 @@ const (
 	TXT_EMPTY                    = "empty"
 	TXT_FALSE                    = "false"
 	TXT_GOOD                     = "good"
+	TXT_GOT_WRONG_BOOLEAN        = "Got wrong boolean value."
 	TXT_INTO                     = "into"
 	TXT_INVALID                  = "INVALID"
 	TXT_LINE_SEPARATOR           = "----------------"
