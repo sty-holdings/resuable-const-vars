@@ -73,6 +73,7 @@ const (
 	TXT_OUTOF            = "out of"
 	TXT_PHONE            = "phone"
 	TXT_SERVER_NAME      = "SERVER_NAME:"
+	TXT_SERVER_VERSION   = "SERVER VERSION:"
 	TXT_TRUE             = "true"
 	// Software
 	LOCAL_HOST      = "localhost"
