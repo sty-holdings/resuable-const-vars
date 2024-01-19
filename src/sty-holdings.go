@@ -48,6 +48,7 @@ const (
 	OPER_EQUAL_SIGN       = "="
 	// Text Strings
 	TXT_BYPASS                   = "bypass"
+	TXT_DID_NOT_MATCH            = "Values didn't match"
 	TXT_DIRECTORY_EXISTS         = "Directory exists"
 	TXT_DIRECTORY_DOES_NOT_EXIST = "Directory doesn't exist"
 	TXT_DIRECTORY_PARAM_EMPTY    = "Directory parameter is empty"
