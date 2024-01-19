@@ -50,7 +50,7 @@ const (
 	// Text Strings
 	// Software
 	LOCAL_HOST              = "localhost"
-	PID_FILENAME            = "/server.pid"
+	PID_FILENAME            = "server.pid"
 	DEFAULT_VERSION         = "9999.9999.9999"
 	ENVIRONMENT_LOCAL       = "local"
 	ENVIRONMENT_DEVELOPMENT = "development"
