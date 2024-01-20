@@ -66,5 +66,6 @@ const (
 	TXT_REDIRECT                 = "REDIRECT: "
 	TXT_SERVER_NAME              = "SERVER_NAME: "
 	TXT_SERVER_VERSION           = "SERVER VERSION: "
+	TXT_SIGNAL                   = "SIGNAL: "
 	TXT_TRUE                     = "true"
 )
