@@ -107,7 +107,7 @@ const (
 	FN_MAX_ALLOCATION                     = "max_allocation"
 	FN_MAX_THREADS                        = "max_threads"
 	FN_MESSAGE_ENVIRONMENT                = "message_environment"
-	FN_MESSAGE_PREFIX                     = "message_prefix"
+	FN_MESSAGE_NAMESPACE                  = "message_namespace"
 	FN_MIN_ALLOCATION                     = "min_allocation"
 	FN_NAVIGATION                         = "navigation"
 	FN_NICKNAME                           = "nickname"
