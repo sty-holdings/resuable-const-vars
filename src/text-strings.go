@@ -28,6 +28,7 @@ package reusable_const_vars
 
 //goland:noinspection ALL
 const (
+	TXT_BAD                      = "bad"
 	TXT_BYPASS                   = "bypass"
 	TXT_DID_NOT_MATCH            = "Values didn't match"
 	TXT_DIRECTORY_EXISTS         = "Directory exists"

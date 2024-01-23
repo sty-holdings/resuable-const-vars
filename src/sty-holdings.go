@@ -62,7 +62,7 @@ const (
 	ATTEMPT_LIMIT_EXCEEDED  = "Attempt limit exceeded"
 	AUTHENTICATOR_SERVICE   = "AuthenticatorService"
 	NATS_NON_TLS_CONNECTION = "NON-TLS"
-	NATS_TLS_CONNECTION     = "TLS "
+	NATS_TLS_CONNECTION     = "TLS"
 	VALID                   = "VALID"
 	// Values
 	VAL_EMPTY = ""
