@@ -76,6 +76,7 @@ const (
 	TXT_MISSING_VALUE            = "missing value"
 	TXT_NA                       = "N.A."
 	TXT_NIL                      = "nil"
+	TXT_NO_LABEL_PROVIDED        = "no label provided"
 	TXT_NONE                     = "none"
 	TXT_NOT_FOUND                = "not found"
 	TXT_PROCESS_MANUALLY         = "Process transfer manually."
