@@ -52,6 +52,7 @@ const (
 	TXT_DIRECTORY_DOES_NOT_EXIST     = "Directory doesn't exist"
 	TXT_DIRECTORY_PARAM_EMPTY        = "Directory parameter is empty"
 	TXT_DIRECTORY                    = "DIRECTORY: "
+	TXT_EXTENSION_NAME               = "EXTENSION NAME: "
 	TXT_FILENAME                     = "FILENAME: "
 	TXT_FILENAME_EXISTS              = "Filename exists"
 	TXT_FILENAME_DOES_NOT_EXISTS     = "Filename doesn'ts exist"
