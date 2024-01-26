@@ -71,6 +71,7 @@ const (
 	TXT_LINE_SEPARATOR               = "----------------"
 	TXT_MAX_THREADS                  = "MAX THREADS: "
 	TXT_MESSAGE                      = "message"
+	TXT_MESSAGE_HEADER               = "Message Header: "
 	TXT_MESSAGE_NAMESPACE            = "message_namespace"
 	TXT_MISSING                      = "MISSING"
 	TXT_MISSING_KEY                  = "missing key"
