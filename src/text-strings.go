@@ -87,6 +87,7 @@ const (
 	TXT_OUTOF                        = "out of"
 	TXT_PHONE                        = "phone"
 	TXT_REDIRECT                     = "REDIRECT: "
+	TXT_REPLY_TYPE                   = "REPLY TYPE: "
 	TXT_SERVER_NAME                  = "SERVER_NAME: "
 	TXT_SERVER_VERSION               = "SERVER VERSION: "
 	TXT_SIGNAL                       = "SIGNAL: "
