@@ -47,6 +47,7 @@ const (
 	TXT_DATATYPE_COMPLEX128          = "complex128"
 	TXT_DATATYPE_BOOL                = "bool"
 	TXT_DATATYPE_STRING              = "string"
+	TXT_DEBUG_MESSAGE                = "DEBUG_MESSAGE: "
 	TXT_DID_NOT_MATCH                = "Values didn't match"
 	TXT_DIRECTORY_EXISTS             = "Directory exists"
 	TXT_DIRECTORY_DOES_NOT_EXIST     = "Directory doesn't exist"
