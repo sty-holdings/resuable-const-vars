@@ -33,4 +33,5 @@ const (
 	MODE_OUTPUT_LOG         = "log"
 	MODE_OUTPUT_LOG_DISPLAY = "log and display"
 	MODE_RELEASE            = "release"
+	MODE_TEST               = "test"
 )

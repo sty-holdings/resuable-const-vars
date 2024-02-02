@@ -58,6 +58,7 @@ const (
 	TXT_FILENAME                     = "FILENAME: "
 	TXT_FILENAME_EXISTS              = "Filename exists"
 	TXT_FILENAME_DOES_NOT_EXISTS     = "Filename doesn'ts exist"
+	TXT_GIN_MODE                     = "GIN MODE: "
 	TXT_IS_EMPTY                     = "is empty"
 	TXT_IS_MISSING                   = "is missing"
 	TXT_IS_OK                        = "is ok"
