@@ -30,6 +30,7 @@ package reusable_const_vars
 const (
 	TXT_BAD                          = "bad"
 	TXT_BYPASS                       = "bypass"
+	TXT_BASE64                       = "BASE64: "
 	TXT_DATATYPE_INT8                = "int8"
 	TXT_DATATYPE_INT16               = "int16"
 	TXT_DATATYPE_INT32               = "int32"
