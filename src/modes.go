@@ -28,10 +28,9 @@ package reusable_const_vars
 
 //goland:noinspection ALL
 const (
-	// output Modes
+	MODE_DEBUG              = "debug"
 	MODE_OUTPUT_DISPLAY     = "display"
 	MODE_OUTPUT_LOG         = "log"
 	MODE_OUTPUT_LOG_DISPLAY = "log and display"
 	MODE_RELEASE            = "release"
-	MODE_DEBUG              = "DEBUG"
 )
