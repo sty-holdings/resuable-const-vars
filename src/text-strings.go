@@ -80,6 +80,7 @@ const (
 	TXT_MISSING_KEY                  = "missing key"
 	TXT_MISSING_VALUE                = "missing value"
 	TXT_NA                           = "N.A."
+	TXT_NATS_PORT                    = "NATS PORT: "
 	TXT_NIL                          = "nil"
 	TXT_NO_LABEL_PROVIDED            = "no label provided"
 	TXT_NON_SECURE_CONNECTION_FAILED = "Non-secure connection request failed."
