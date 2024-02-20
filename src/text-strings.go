@@ -28,6 +28,7 @@ package reusable_const_vars
 
 //goland:noinspection ALL
 const (
+	TXT_AT_LEAST_ONE                 = "at least one is required"
 	TXT_BAD                          = "bad"
 	TXT_BYPASS                       = "bypass"
 	TXT_BASE64                       = "BASE64: "
