@@ -26,12 +26,6 @@ COPYRIGHT and WARRANTY:
 */
 package reusable_const_vars
 
-import (
-	"sync"
-
-	"github.com/nats-io/nats.go"
-)
-
 //goland:noinspection GoSnakeCaseUsage,GoCommentStart
 const (
 	// Extensions
@@ -70,14 +64,3 @@ const (
 	VAL_EMPTY = ""
 	VAL_ZERO  = 0
 )
-
-// ExtInstance
-// READ ME: Shorten the name to resolve naming conflict
-// *********************
-type ExtInstance struct {
-	InstanceName      string
-	NatsConnectionPtr *nats.Conn
-	ProcessChannel    chan string
-	SubscriptionPtrs  map[string]*nats.Subscription
-	WaitGroup         sync.WaitGroup
-}
