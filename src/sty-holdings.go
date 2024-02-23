@@ -26,8 +26,12 @@ COPYRIGHT and WARRANTY:
 */
 package reusable_const_vars
 
-//goland:noinspection ALL
+//goland:noinspection GoSnakeCaseUsage,GoCommentStart
 const (
+	// Extensions
+	NC_INTERNAL      = "nc_internal"
+	STRIPE_EXTENSION = "stripe"
+	//
 	// Fully qualified filenames
 	FQN_CERTIFICATE          = "CertificateFQN"
 	FQN_FIREBASE_CREDENTIALS = "FirebaseCredentialsFQN"
