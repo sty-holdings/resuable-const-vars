@@ -97,6 +97,7 @@ const (
 	TXT_SERVER_NAME                  = "SERVER_NAME: "
 	TXT_SERVER_VERSION               = "SERVER VERSION: "
 	TXT_SIGNAL                       = "SIGNAL: "
+	TXT_STRIPE_CURRENCY              = "STRIPE CURRENCY: "
 	TXT_SUBJECT                      = "SUBJECT: "
 	TXT_TRUE                         = "true"
 )
