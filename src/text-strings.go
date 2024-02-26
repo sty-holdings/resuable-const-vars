@@ -28,10 +28,12 @@ package reusable_const_vars
 
 //goland:noinspection ALL
 const (
+	TXT_AMOUNT                       = "AMOUNT: "
 	TXT_AT_LEAST_ONE                 = "at least one is required"
 	TXT_BAD                          = "bad"
 	TXT_BYPASS                       = "bypass"
 	TXT_BASE64                       = "BASE64: "
+	TXT_CURRENCY                     = "CURRENCY: "
 	TXT_DATATYPE_INT8                = "int8"
 	TXT_DATATYPE_INT16               = "int16"
 	TXT_DATATYPE_INT32               = "int32"
@@ -97,7 +99,6 @@ const (
 	TXT_SERVER_NAME                  = "SERVER_NAME: "
 	TXT_SERVER_VERSION               = "SERVER VERSION: "
 	TXT_SIGNAL                       = "SIGNAL: "
-	TXT_STRIPE_CURRENCY              = "STRIPE CURRENCY: "
 	TXT_SUBJECT                      = "SUBJECT: "
 	TXT_TRUE                         = "true"
 )
