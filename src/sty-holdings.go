@@ -52,7 +52,7 @@ const (
 	ENVIRONMENT_DEVELOPMENT = "development"
 	ENVIRONMENT_PRODUCTION  = "production"
 	// Testing
-	TEST_POSITVE_SUCCESS  = "Positive Case: Successful: "
+	TEST_POSITIVE_SUCCESS = "Positive Case: Successful: "
 	TEST_NEGATIVE_SUCCESS = "Negative Case: Successful: "
 	// Unassigned
 	ATTEMPT_LIMIT_EXCEEDED  = "Attempt limit exceeded"
