@@ -26,7 +26,7 @@ COPYRIGHT and WARRANTY:
 */
 package reusable_const_vars
 
-//goland:noinspection GoSnakeCaseUsage,GoCommentStart
+//goland:noinspection ALL
 const (
 	// Extensions
 	NC_INTERNAL      = "nc_internal"

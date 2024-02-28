@@ -26,7 +26,7 @@ COPYRIGHT and WARRANTY:
 */
 package reusable_const_vars
 
-//goland:noinspection GoSnakeCaseUsage
+//goland:noinspection ALL
 const (
 	SPACES_ONE             = " "
 	SPACES_TWO             = "  "
