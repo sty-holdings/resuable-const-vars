@@ -39,7 +39,7 @@ const (
 	PAYMENT_METHOD_BANCONTACT       = "Bancontact"
 	PAYMENT_METHOD_BLIK             = "BLIK"
 	PAYMENT_METHOD_Boleto           = "Boleto"
-	PAYMENT_METHOD_CARD             = "Card"
+	PAYMENT_METHOD_CARDS            = "Cards"
 	PAYMENT_METHOD_CARTESBANCAIRES  = "CartesBancaires"
 	PAYMENT_METHOD_CASHAPP          = "CashApp"
 	PAYMENT_METHOD_EPS              = "EPS"
