@@ -91,6 +91,7 @@ const (
 	TXT_NONE                         = "none"
 	TXT_NOT_FOUND                    = "not found"
 	TXT_PAYMENT_METHOD               = "PAYMENT METHOD: "
+	TXT_PAYMENT_METHOD_TYPE          = "PAYMENT METHOD TYPE: "
 	TXT_PROCESS_MANUALLY             = "Process transfer manually."
 	TXT_PROTECTED                    = "PROTECTED"
 	TXT_OUTOF                        = "out of"
